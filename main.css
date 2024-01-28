@@ -1,6 +1,6 @@
 ul li a {
 	position: relative;
-	font-size: 3em;
+	font-size: 2em;
 	text-decoration: none;
 	line-height: 1em;
 	letter-spacing: 2px;
@@ -44,7 +44,7 @@ ul {
 	position: relative;
 	display: flex;
 	flex-direction: column;
-	gap: 30px;
+	gap: 20px;
 }
 
 ul li{
