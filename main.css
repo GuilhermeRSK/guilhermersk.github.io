@@ -44,7 +44,7 @@ ul {
 	position: relative;
 	display: flex;
 	flex-direction: column;
-	gap: 25px;
+	gap: 20px;
 }
 
 ul li{
